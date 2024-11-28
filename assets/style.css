@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black
+
+}
+
+.boxnav{
+background-color: aqua;
+padding: 5px;
+border-radius: 15px;
+
+}
+
+.box1{
+    height: 60px;
+    background-color: aqua;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    padding: 5px;
+    border-radius: 15px;
+    transform: translate(-25%,-25%);
+    transition: 0.6s;
+}
+ 
+
+.box1:hover{
+    background-color: rgb(182, 122, 238);
+}
+
+.box2{
+
+    height: 60px;
+    background-color: aqua;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    padding: 5px;
+    border-radius: 15px;
+    transform: translate(-25%,-25%);
+    transition: 0.6s;
+
+}
+
+.box3{
+
+    height: 60px;
+    background-color: aqua;
+    position: absolute;
+    top: 45%;
+    left: 25%;
+    padding: 5px;
+    border-radius: 15px;
+    transform: translate(-25%,-25%);
+    transition: 0.6s;
+
+
+}
+
+.box4{
+
+    height: 60px;
+    background-color: aqua;
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    padding: 5px;
+    border-radius: 15px;
+    transform: translate(-25%,-25%);
+    transition: 0.6s;
+
+}
+
+.box5{
+
+    height: 60px;
+    background-color: aqua;
+    position: absolute;
+    top: 65%;
+    left: 25%;
+    padding: 5px;
+    border-radius: 15px;
+    transform: translate(-25%,-25%);
+    transition: 0.6s;
+
+}
+
+.box6{
+
+    
+}
