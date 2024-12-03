@@ -2,7 +2,8 @@ body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    color: black
+    color: black;
+   
 
 }
 
@@ -11,6 +12,10 @@ background-color: aqua;
 padding: 5px;
 border-radius: 15px;
 
+}
+
+a{
+    text-decoration: none;
 }
 
 .box1{
@@ -45,6 +50,9 @@ border-radius: 15px;
 
 }
 
+.box2:hover{
+    background-color: rgb(182, 122, 238);}
+
 .box3{
 
     height: 60px;
@@ -58,6 +66,10 @@ border-radius: 15px;
     transition: 0.6s;
 
 
+}
+
+.box3:hover{
+    background-color: rgb(182, 122, 238);
 }
 
 .box4{
@@ -74,6 +86,10 @@ border-radius: 15px;
 
 }
 
+.box4:hover{
+    background-color: rgb(182, 122, 238);
+}
+
 .box5{
 
     height: 60px;
@@ -88,3 +104,14 @@ border-radius: 15px;
 
 }
 
+.box5:hover{
+    background-color: rgb(182, 122, 238);
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+font-weight: 700;
+color: black;
+
+
+}
