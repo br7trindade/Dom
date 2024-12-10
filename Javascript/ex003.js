@@ -17,7 +17,7 @@ let media = (nota1 + nota2 + nota3 / 3)
 
 //alert("a media é " + media)
 
-document.getElementById("botafogo").innerText = "A média das notas é " 
+document.getElementById("botafogo").innerText = "A média das notas é " + media
 
 }
 
