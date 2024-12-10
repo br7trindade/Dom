@@ -14,5 +14,6 @@ function brant1()
         
     else {
           alert("O ano é normal");
+          
     }
 }
